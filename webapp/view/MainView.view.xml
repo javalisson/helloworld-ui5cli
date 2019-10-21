@@ -1,0 +1,14 @@
+ <mvc:View controllerName="HelloWorld.helloworld-ui5cli.controller.MainView"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc">
+	<App id="idAppControl">
+		<pages>
+			<Page title="{i18n>title}">
+				<content>
+					<Title text="Hello World!" level="H1" titleStyle="H1" class="sapUiLargeMargin" />
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View> 

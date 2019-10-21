@@ -1,0 +1,8 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "helloworld-ui5cli",
+    "namespace": "HelloWorld",
+    "viewtype": "XML",
+    "viewname": "MainView"
+  }
+}
